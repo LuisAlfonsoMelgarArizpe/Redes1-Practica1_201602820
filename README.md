@@ -1,19 +1,19 @@
-#Laboratorio Redes de Computadoras 1
-#Practica 1
-#Luis Alfonso Melgar Arizpe - 201602820
+# Laboratorio Redes de Computadoras 1
+# Practica 1
+# Luis Alfonso Melgar Arizpe - 201602820
 
 ---
 
 # Manual de Configuracion Practica 1 201602820
 
-##Configuracion de la topologia de Red
+## Configuracion de la topologia de Red
 
 
 
-##Configuracion de cada componente
+## Configuracion de cada componente
 
 
-##Glosario
+## Glosario
 1. **IP**
 2. **VPC**
 3. **Switch**
