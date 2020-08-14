@@ -1,6 +1,6 @@
 ## Laboratorio Redes de Computadoras 1
-## Practica 1
-## Luis Alfonso Melgar Arizpe - 201602820
+	Practica 1
+	Luis Alfonso Melgar Arizpe - 201602820
 
 ---
 
