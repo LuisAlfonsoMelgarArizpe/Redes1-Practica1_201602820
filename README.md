@@ -66,7 +66,7 @@ Luego de configurar todos los componentes podemos realizar pruebas de comunicaci
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pingPC4](./imgs/pingPC4.png)
 
 
-* TinyCoreLinux-1
+* TinyCoreLinux-1 (192.168.10.15)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pingVM](./imgs/pingVM.png)
 
