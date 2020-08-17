@@ -4,7 +4,7 @@
 
 ---
 
-# Manual de Configuracion Practica 1 201602820
+# Manual de configuracion
 
 ## Configuracion de la topologia de Red
 La topologia de red utilizada fue la siguiente: 
