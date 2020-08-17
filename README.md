@@ -14,10 +14,13 @@ Esta topologia nos permite conectar dos grupos de computadoras que comparten la 
 
 ## Configuracion de cada componente
 -- **Router 3725 (R1)**
+
 Para configurar el router es necesario ingresar a la configuracion de cada una de las terminales y asignarles la Direccion de Red y una IP.
+
 ![configR1](./imgs/configR1.png)
 
 -- **VPC**
+
 Para configurar la VPC es necesario ingresar a la configuracion y configurar la red de la computadora.
 * PC2
 
