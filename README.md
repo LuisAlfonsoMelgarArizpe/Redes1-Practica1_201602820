@@ -34,7 +34,7 @@ Para configurar la VPC es necesario ingresar a la configuracion y configurar la 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![configPC4](./imgs/configPC4.png)
 
-- **VMWare Virtual Machine con TinyCoreLinux (TinyCoreLinux-1)**
+-- **VMWare Virtual Machine con TinyCoreLinux (TinyCoreLinux-1)**
 
 Para configurar la red de una maquina virtual en VMWare primero se debe asignar un grupo de VMnets para el uso de GNS3 desde la configuracion de este.
 
