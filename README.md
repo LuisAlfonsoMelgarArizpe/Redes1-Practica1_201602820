@@ -13,11 +13,11 @@ Esta topologia nos permite conectar dos grupos de computadoras que comparten la 
 
 
 ## Configuracion de cada componente
-- **Router 3725 (R1)**
+-- **Router 3725 (R1)**
 Para configurar el router es necesario ingresar a la configuracion de cada una de las terminales y asignarles la Direccion de Red y una IP.
 ![configR1](./imgs/configR1.png)
 
-- **VPC**
+-- **VPC**
 Para configurar la VPC es necesario ingresar a la configuracion y configurar la red de la computadora.
 * PC2
 
@@ -31,7 +31,7 @@ Para configurar la VPC es necesario ingresar a la configuracion y configurar la 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![configPC4](./imgs/configPC4.png)
 
--- **VMWare Virtual Machine con TinyCoreLinux (TinyCoreLinux-1)**
+- **VMWare Virtual Machine con TinyCoreLinux (TinyCoreLinux-1)**
 
 Para configurar la red de una maquina virtual en VMWare primero se debe asignar un grupo de VMnets para el uso de GNS3 desde la configuracion de este.
 
